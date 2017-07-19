@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kan Tech College</string>
+    <string name="editFNameHint">John Doe</string>
+    <string name="click_me">Submit</string>
+    <string name="register">REGISTRATION</string>
+    <string name="name">Name</string>
+    <string name="school">School</string>
+    <string name="faculty_of_science">Faculty of Science</string>
+    <string name="department">Department</string>
+    <string name="computer_science">Computer Science</string>
+</resources>
